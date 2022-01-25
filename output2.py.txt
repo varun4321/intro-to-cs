@@ -1,0 +1,37 @@
+Windows PowerShell
+Copyright (C) 2016 Microsoft Corporation. All rights reserved.
+
+PS C:\Users\mypc\Documents\vs first> python -u "c:\Users\mypc\Documents\vs first\assignment2.py"
+(a) The length of the string is: 35
+(b) The reversed string is: egaugnal evitisnes esac a si nothyP
+(e) The index of substring a is: 10
+(f) The original string after removing whitespaces is: Pyhton is a case sensitive language
+
+
+part(a): 8
+part b: 58
+part c: 50
+part d: 224 40
+part e: 14 0
+
+
+Hey Varun, here!
+My SID is 21103069
+I am from computer science and my CGPA is9.900000
+
+
+Enter your first no.:12
+Enter your second no.:20
+Enter your third no.:8
+the greatest number is: 20
+
+
+Enter the string:varun,name
+yes
+
+
+Enter 1st side length:5
+Enter 2nd side length:3
+Enter 3rd side length:4
+Yes triangle can be formed
+PS C:\Users\mypc\Documents\vs first>
